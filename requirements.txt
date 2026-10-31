@@ -1,0 +1,10 @@
+# Parte 1 (datos, backtest, baselines, LightGBM y redes propias)
+numpy==2.5.4
+pandas==2.3.3          # statsforecast 2.1 aún no soporta pandas 3
+pyarrow==25.0.1
+matplotlib==3.11.2
+torch==2.6.0           # se usó la build cu124 (RTX 4050)
+statsforecast==2.1.1
+lightgbm==4.7.0
+holidays==0.107
+ipykernel==7.4.0

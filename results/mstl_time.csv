@@ -1,0 +1,2 @@
+model,split,n_origins,fit_time_s,infer_time_s,n_fits
+MSTL,test,92,4.4800108298659325e-05,553.7663966999389,1
