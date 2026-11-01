@@ -8,3 +8,7 @@ statsforecast==2.1.1
 lightgbm==4.7.0
 holidays==0.107
 ipykernel==7.4.0
+
+# Parte 2 (modelos de librería)
+neuralforecast==3.3.0
+chronos-forecasting==2.3.2

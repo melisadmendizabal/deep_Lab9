@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Corrida corta de prueba del notebook de la Parte 2 (LAB9_QUICK=1)
+quick/
